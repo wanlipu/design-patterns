@@ -2,16 +2,16 @@
 
 
 ## Books
-- Design Patterns: Elements of Reusable Object-Oriented Software
+- Design Patterns: Elements of Reusable Object-Oriented Software (C++)
   - https://github.com/BartVandewoestyne/Design-Patterns-GoF
   - What Is MVC? Simple Explanation
     - https://www.youtube.com/watch?v=pCvZtjoRq1I
-- Head First Design Patterns: A Brain-Friendly Guide
+- Head First Design Patterns: A Brain-Friendly Guide (Java)
   - https://www.amazon.com/dp/0596007124//ref=cm_sw_su_dp?tag=nethta-20
   - https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07
 
 
-## Microsoft Tutorial
+## Microsoft Tutorial (C#)
 - SOLID Design Patterns (start from here):   https://www.youtube.com/watch?v=agkWYPUcLpg
 - Design Patterns: Command/Memento:   https://www.youtube.com/watch?v=zRbHlDeon3E
 - Design Patterns: Strategy:   https://www.youtube.com/watch?v=QZIvlny1Onk
