@@ -30,3 +30,6 @@
   - Factory vs Abstract Factory: https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns
 - Design Patterns: Adapter and Façade:   https://www.youtube.com/watch?v=XYa0rmRMZ1Q
 - Design Patterns: Decorator:   https://www.youtube.com/watch?v=6PPMR0GWrZQ
+
+## Others
+- https://mp.weixin.qq.com/s/3Rc6DVmTQiQ4LKMon76_0g
